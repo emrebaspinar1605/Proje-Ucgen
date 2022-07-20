@@ -1,0 +1,15 @@
+C:\Users\Turku\Desktop\Pratikler\Proje-Ucgen\bin\Debug\net6.0\Proje-Ucgen.exe
+C:\Users\Turku\Desktop\Pratikler\Proje-Ucgen\bin\Debug\net6.0\Proje-Ucgen.deps.json
+C:\Users\Turku\Desktop\Pratikler\Proje-Ucgen\bin\Debug\net6.0\Proje-Ucgen.runtimeconfig.json
+C:\Users\Turku\Desktop\Pratikler\Proje-Ucgen\bin\Debug\net6.0\Proje-Ucgen.dll
+C:\Users\Turku\Desktop\Pratikler\Proje-Ucgen\bin\Debug\net6.0\Proje-Ucgen.pdb
+C:\Users\Turku\Desktop\Pratikler\Proje-Ucgen\obj\Debug\net6.0\Proje-Ucgen.csproj.AssemblyReference.cache
+C:\Users\Turku\Desktop\Pratikler\Proje-Ucgen\obj\Debug\net6.0\Proje-Ucgen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turku\Desktop\Pratikler\Proje-Ucgen\obj\Debug\net6.0\Proje-Ucgen.AssemblyInfoInputs.cache
+C:\Users\Turku\Desktop\Pratikler\Proje-Ucgen\obj\Debug\net6.0\Proje-Ucgen.AssemblyInfo.cs
+C:\Users\Turku\Desktop\Pratikler\Proje-Ucgen\obj\Debug\net6.0\Proje-Ucgen.csproj.CoreCompileInputs.cache
+C:\Users\Turku\Desktop\Pratikler\Proje-Ucgen\obj\Debug\net6.0\Proje-Ucgen.dll
+C:\Users\Turku\Desktop\Pratikler\Proje-Ucgen\obj\Debug\net6.0\refint\Proje-Ucgen.dll
+C:\Users\Turku\Desktop\Pratikler\Proje-Ucgen\obj\Debug\net6.0\Proje-Ucgen.pdb
+C:\Users\Turku\Desktop\Pratikler\Proje-Ucgen\obj\Debug\net6.0\Proje-Ucgen.genruntimeconfig.cache
+C:\Users\Turku\Desktop\Pratikler\Proje-Ucgen\obj\Debug\net6.0\ref\Proje-Ucgen.dll
